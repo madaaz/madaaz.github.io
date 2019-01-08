@@ -1,5 +1,0 @@
----
-title: "Mada"
----
-
-Essa é a página pessoal do Mada.
